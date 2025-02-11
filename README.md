@@ -1,7 +1,6 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Guicmf/Guicmf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a front-end developer who loves creating creatives design projects. 😁
 
 Here are some ideas to get you started:
 
