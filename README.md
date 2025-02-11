@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a front-end developer who loves creating creatives design projects. 😁
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
