@@ -20,6 +20,3 @@ Welcome to my GitHub profile! I'm a front-end developer who loves creating creat
 
 ###
 
-<img src="https://raw.githubusercontent.com/guicmf/guicmf/output/snake.svg" alt="Snake animation" />
-
-###
