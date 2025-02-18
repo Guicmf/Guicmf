@@ -1,6 +1,9 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm a front-end developer who loves creating creatives design projects. 😁
+<h3>Welcome to my GitHub profile! I'm a front-end developer who loves creating creatives design projects. 😁</h3>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=800080&width=587&separator=%3E&lines=System.out.println(%22Hello%2C+World!%22);%3ESELECT+nome++FROM+pessoas++WHERE+nome+%3D+'Guilherme';" alt="Typing SVG" />
+</a>
 
 # 🔭 I’m currently working as a
 <h3>Developer</h3>
@@ -25,7 +28,6 @@ Welcome to my GitHub profile! I'm a front-end developer who loves creating creat
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guicmf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="languages graph"  />
   
-  <img src="https://streak-stats.demolab.com?user=guicmf&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph"  />
 </div>
 
 <hr>
