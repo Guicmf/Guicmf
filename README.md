@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=800080"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=800080&width=578&separator=%3E&lines=System.out.println(%22Hello%2C+World!%22);%3ESELECT+nome++FROM+pessoas++WHERE+nome+%3D+'Guilherme';" alt="Typing SVG" />
-</a>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=800080&width=500&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E7%A7%81%E3%81%AE%E5%90%8D%E5%89%8D%E3%81%AF%E3%82%AE%E3%83%AA%E3%82%A7%E3%83%AB%E3%83%A1%E3%81%A7%E3%81%99.;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E6%98%AF%E5%90%89%E5%88%97%E5%B0%94%E6%A2%85.;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EC%A0%9C+%EC%9D%B4%EB%A6%84%EC%9D%80+%EA%B8%B8%EB%A0%88%EB%A5%B4%EB%AF%B8%EC%9E%85%EB%8B%88%EB%8B%A4.;Hello%2C+my+name+is+Guilherme+Miranda.;Bonjour%2C+je+m'appelle+Guilherme+Miranda.;Hola%2C+mi+nombre+es+Guilherme+Miranda.;Ol%C3%A1%2C+meu+nome+%C3%A9+Guilherme+Miranda.;Hallo%2C+mein+Name+ist+Guilherme+Miranda.)](https://git.io/typing-svg)
+- `The text above will be translated into: Japanese, Mandarin, Korean, English, French, Spanish, Portuguese and German`
 # Hi there! 👋
 
 <div>
