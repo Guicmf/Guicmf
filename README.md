@@ -6,12 +6,6 @@
 
 <div>
 <h3>Welcome to my GitHub profile! I'm a front-end developer <br> who loves creating creatives design projects. 😁</h3>
-
-<div align = left style=" margin-top: 50px">
-  
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cnlup2u66jaezkpuypq4wyqfim)
-
-</div>
 </div>
 
 # 🔭 I’m currently working as a
@@ -19,6 +13,13 @@
 
 # 🤝 I’m looking for help with 
 <h3>back-end</h3>
+
+# 🤝 I’m listening to 
+<div align = left style=" margin-top: 50px">
+  
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cnlup2u66jaezkpuypq4wyqfim)
+
+</div>
 
 # 📘 Experience
 - `2023 - Currently`  Studying at Cotemig
