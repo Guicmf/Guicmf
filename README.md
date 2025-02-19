@@ -14,7 +14,7 @@
 # 🤝 I’m looking for help with 
 <h3>back-end</h3>
 
-# 🤝 I’m listening to 
+# 🎧 I’m listening to 
 <div align = left style=" margin-top: 50px">
   
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cnlup2u66jaezkpuypq4wyqfim)
